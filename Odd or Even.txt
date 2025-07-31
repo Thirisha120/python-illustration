@@ -1,0 +1,7 @@
+                                                                                                         Odd or Even Algorithm
+    
+       1.Star the program
+       2.Take an integer from the user
+       3.Use the modulus opertor to chek the reminder when the number is divided by
+       4. If the reminder is 0,the number is even; otherwise,it is odd
+       5.End the program   
